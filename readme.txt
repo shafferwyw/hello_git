@@ -6,3 +6,5 @@
 
  4 // wyw add for fourth test
  5 //add for git diff 
+ 6
+ 7
